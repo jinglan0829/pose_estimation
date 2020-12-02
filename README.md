@@ -4,7 +4,7 @@ Clustering the point cloud and using PCA to define the object frame
 
 #Using command
 
-$ mkdir build
+'''$ mkdir build'''
 $ cd build
 $ cmake ..
 $ make
